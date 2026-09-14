@@ -8,7 +8,7 @@ Hello, my name is Jonathan Castro, and I have over 10 years of experience in sof
 
 ## Contact :mailbox:
 
-_joncastdev@hotmail.com_
+_joncastdev@gmail.com_
 
 
 
