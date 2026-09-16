@@ -5,7 +5,7 @@
 ## GitHub stats
 
 <div align="center">
-  <a href="https://commit-history.com/pushpak1300">
+  <a href="https://commit-history.com/joncastdev">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/joncastdev?theme=dark" />
       <img alt="fabpot's commit history" src="https://commit-history.com/embed/fabpot" />
