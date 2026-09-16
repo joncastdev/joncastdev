@@ -4,6 +4,16 @@
 
 ## GitHub stats
 
+<div align="center">
+  <a href="https://commit-history.com/pushpak1300">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/joncastdev?theme=dark" />
+      <img alt="fabpot's commit history" src="https://commit-history.com/embed/fabpot" />
+    </picture>
+  </a>
+</div>
+
+
 <img src="https://camo.githubusercontent.com/3460bbad65e94542e4c9b2658f2d24727565cfcfcf2267847a1f864a32747506/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d3f757365723d506574654269736877686970267468656d653d746f6b796f6e6967687426686964655f626f726465723d74727565" alt="joncastdev GitHub streak" data-canonical-src="https://streak-stats.demolab.com?user=joncastdev&amp;theme=tokyonight&amp;hide_border=true" style="max-width: 100%;">
 
 ## About Me
@@ -15,5 +25,3 @@ Hello, my name is Jonathan Castro, and I have over 10 years of experience in sof
 ## Contact :mailbox:
 
 _joncastdev@gmail.com_
-
-
